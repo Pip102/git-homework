@@ -22,4 +22,4 @@ Rscript src/make-plot.R
 The output of make-plot.R is result.png 
 
 The input data is in `data` and the results are in `output`.
-Information about data sources can also be found in 'data' and 'scr' contains the r scripts needed to run the analysis 
+Information about data sources can also be found in 'data' and 'scr' contains the r scripts required to run this analysis 
